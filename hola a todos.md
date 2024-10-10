@@ -34,12 +34,12 @@
 <body>
 
 <header>
-    <h1>hola a todos soy alondra bbs </h1>
+    <h1>hola a todos</h1>
 </header>
 
 <section>
     <h2>Inicio</h2>
-    <p>y besos en el mas oscuro.</p>
+    <p>y Github.</p>
 </section>
 
 <footer>
