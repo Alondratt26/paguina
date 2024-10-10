@@ -34,12 +34,12 @@
 <body>
 
 <header>
-    <h1>chingen a su madre todos </h1>
+    <h1>hola a todos soy alondra bbs </h1>
 </header>
 
 <section>
     <h2>Inicio</h2>
-    <p>y mas el pinki Pages.</p>
+    <p>y besos en el mas oscuro.</p>
 </section>
 
 <footer>
